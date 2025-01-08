@@ -6,3 +6,5 @@ V2 - fiz uma nova alteracao
 ### Realizando um pull request
 
 Alteração no README.md
+feat: alterando o texto do meu readme.md para realizarmos o rollback
+
